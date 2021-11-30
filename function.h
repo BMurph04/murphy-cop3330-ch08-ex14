@@ -5,4 +5,4 @@
 
 #include "std_lib_facilities.h"
 
-bool checkValid(const int); //Function declared with const as an argument
+void arithmetic(const int); //Function declared with const as an argument
